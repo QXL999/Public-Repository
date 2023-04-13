@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "report_Mat_Operation", "report_Mat_Operation\report_Mat_Operation.vcxproj", "{AC93C0BB-E6B5-411C-A4E7-C99CC6D4F4BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC93C0BB-E6B5-411C-A4E7-C99CC6D4F4BE}.Debug|x64.ActiveCfg = Debug|x64
+		{AC93C0BB-E6B5-411C-A4E7-C99CC6D4F4BE}.Debug|x64.Build.0 = Debug|x64
+		{AC93C0BB-E6B5-411C-A4E7-C99CC6D4F4BE}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC93C0BB-E6B5-411C-A4E7-C99CC6D4F4BE}.Debug|x86.Build.0 = Debug|Win32
+		{AC93C0BB-E6B5-411C-A4E7-C99CC6D4F4BE}.Release|x64.ActiveCfg = Release|x64
+		{AC93C0BB-E6B5-411C-A4E7-C99CC6D4F4BE}.Release|x64.Build.0 = Release|x64
+		{AC93C0BB-E6B5-411C-A4E7-C99CC6D4F4BE}.Release|x86.ActiveCfg = Release|Win32
+		{AC93C0BB-E6B5-411C-A4E7-C99CC6D4F4BE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8760DF87-3C99-4CB9-9A5F-D2E27E07AAEF}
+	EndGlobalSection
+EndGlobal
